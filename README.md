@@ -39,4 +39,4 @@
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=amankumarm&show_icons=true alt=amankumarm /> </p>
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=amankumarm&show_icons=true alt=amankumarm /> </p>
