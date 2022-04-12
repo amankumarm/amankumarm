@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [amankumarm](https://amankumarm.github.io)
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Working on [Justbook.in](http://testing.justbooks.in) 
 
 
 
