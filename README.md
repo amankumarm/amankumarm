@@ -4,8 +4,6 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=amankumarm alt=amankumarm/> </p>
 
 
-- 💬 Ask me How to **React**
-
 - 📫 Reach me at **amankumarm441@gmail.com**
 
 - 👨‍💻 All of my projects are available at [amankumarm](https://amankumarm.github.io)
