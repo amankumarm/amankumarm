@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Aman Kumar M</h1>
 
-<h3 align="center">A young full-stack developer from India 🇮🇳</h3>
+<h3 align="center">A full-stack developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=amankumarm alt=amankumarm/> </p>
 
 
